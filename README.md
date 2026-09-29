@@ -1,6 +1,6 @@
 # LLM-fact-checker-
 
-Rag that pulls relevant articles to fact check a claim, implemented with LangChain and Wikipedia API.
+Rag that pulls relevant articles to fact check a claim, implemented with LangChain.
 
 The prompts are based on the methods of human fact checkers which is broken down into three main steps where we look for three custom metrics: Credibility score, Bias score, and Evidence Strength.
 
